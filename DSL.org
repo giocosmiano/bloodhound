@@ -1,0 +1,48 @@
+* Elasticsearch DSL
+
+** Grouping
+
+bulk
+
+*** Example
+
+[Action] -> IO [Reply]
+
+** Indexing
+
+create index
+index
+delete index
+index status
+add alias
+remove alias
+
+** Search
+
+search
+
+** Document Management
+
+get
+count
+delete by id
+delete by query
+update
+
+** Multi-**
+
+multiget
+multisearch
+
+** Meta/Status
+
+Get status (root URL)
+optimize
+explain
+more like this
+
+** Register/percolate/validate
+
+register query
+percolate doc
+validate
